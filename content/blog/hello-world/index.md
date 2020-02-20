@@ -1,22 +1,16 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: World Hottest Chocolate
+date: "2020-02-16T22:12:03.284Z"
+description: "Really? I can handle this no problem I'll give myself a try!"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Oh it's delicious! You definately should try one, just one piece!
 
-I'm sure I'll write a lot more interesting things in the future.
+Check this out, Two guys takes turn taking one piece at a time.
+[YouTube](https://www.youtube.com/watch?v=Dc-10IfrWag).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+>Spice up dessert time by sinking your teeth into the world’s hottest chocolate bar. This sweet yet super spicy treat is made with 4 grams of rich chocolate along with an incredibly hot 9 million Scoville heat unit extract >that will have you begging for a glass of milk.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+![Hot Chocolate](./choco.png)
 
-![Chinese Salty Egg](./salty_egg.jpg)
+I'm sure it looks so good. You can purchase it through Amazon's website. [Buy at Amazon](https://www.amazon.com/Worlds-Hottest-Chocolate-Bar-chocolate/dp/B07HPBQYG7).

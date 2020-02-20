@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `UVU DGM's Blog`,
+    title: `Daniel's Blog`,
     author: `Daniel Purrington`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `trex1883`,
     },
   },
   plugins: [
